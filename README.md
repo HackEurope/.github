@@ -8,3 +8,5 @@ All related codebases are managed by the **PDE team**:
 - **[Luke Molony](https://www.lukemolony.com)** — CTO
 - **[Emer O’Connor](https://emeroconnor.dev/)** — Head of Design
 - **[Reuben Ramsden](https://www.linkedin.com/in/reuban-ramsden/)** — Designer
+
+Find out more info on the official [website](https://www.hackeurope.eu).
