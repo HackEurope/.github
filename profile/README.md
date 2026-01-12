@@ -7,7 +7,7 @@ All related codebases are managed by the **PDE team**:
 
 - **[Luke Molony](https://www.lukemolony.com)** — CTO
 - **[Emer O’Connor](https://emeroconnor.dev/)** — Head of Design
-- **[Reuben Ramsden](https://www.linkedin.com/in/reuban-ramsden/)** — Designer
+- **[Reuban Ramsden](https://www.linkedin.com/in/reuban-ramsden/)** — Designer and Head of Marketing
 - **[Ishaan Jain](https://www.linkedin.com/in/ishaanj9/)** — Frontend Dev
 
 Find out more info on the official [website](https://www.hackeurope.com).
